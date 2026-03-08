@@ -1,5 +1,7 @@
 # PRISMA SLR Generator 📊
 
+🌐 **Live Demo:** [https://prisma-slr.netlify.app/](https://prisma-slr.netlify.app/)
+
 Aplikasi web interaktif untuk menghasilkan dan mengelola **Diagram Alir PRISMA 2020** yang dikhususkan untuk keperluan penelitian _Systematic Literature Review_ (SLR) atau skripsi. Aplikasi ini memungkinkan pengguna untuk memasukkan data skrining literatur secara langsung dan mengekspor hasilnya menjadi file PDF atau PNG berkualitas tinggi.
 
 Proyek ini menggunakan **SolidJS**, kerangka kerja UI reaktif modern yang menawarkan performa luar biasa, dipadukan dengan **Tailwind CSS v4** untuk styling yang cepat dan responsif.
